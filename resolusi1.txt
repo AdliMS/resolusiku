@@ -2,3 +2,5 @@ Adli Resolusi
 - cari kerja
 - dapat uang
 - jadi kaya
+- belajar database
+- belajar web design
